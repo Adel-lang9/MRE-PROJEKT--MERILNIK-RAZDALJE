@@ -3,3 +3,4 @@ Senzor deluje tako, da oddaja infrardeč laserski žarek, ki se odbije od predme
 Za električni del smo uporabili Arduino Uno, VL53L0X laserski senzor za razdaljo, TFT zaslon ST7789 (240x320), nekaj žičk in PCB ploščico za povezavo.Za strojni del smo uporabili plastično ohišje v katerem je vse skupaj nameščeno, ter vijake za pritrditev komponent.
 
 ![Vezava](easyeda.png)
+
