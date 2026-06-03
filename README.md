@@ -6,7 +6,7 @@ Za električni del smo uporabili Arduino Nano, VL53L0X laserski senzor za razdal
 
 videoposnetek delovanja
 
-![List](delovni list.jpg)
+![List](delovni.list.jpg)
 
  Komentar na delovanje in ocena natančnosti delovanja
 
