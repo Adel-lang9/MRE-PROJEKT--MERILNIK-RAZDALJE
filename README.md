@@ -4,3 +4,10 @@ Za električni del smo uporabili Arduino Nano, VL53L0X laserski senzor za razdal
 
 ![Vezava](easyeda.png)
 
+videoposnetek delovanja
+
+<img width="678" height="1024" alt="image" src="https://github.com/user-attachments/assets/94365667-f9a2-4c36-9dd9-bb4b45a5d3ba" />
+
+ Komentar na delovanje in ocena natančnosti delovanja
+
+ predlagane izboljšave, postopek kalibracije senzorja itd. vnesite še na koncu datoteke README.md
