@@ -5,6 +5,7 @@ Za električni del smo uporabili Arduino Nano, VL53L0X laserski senzor za razdal
 ![Vezava](easyeda.png)
 
 ![Ohišje](Ohišje.png)
+![Ohišje](Pokrov.png)
 
 videoposnetek delovanja
 
