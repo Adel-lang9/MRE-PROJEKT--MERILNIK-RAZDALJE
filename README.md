@@ -13,4 +13,4 @@ videoposnetek delovanja
 
 Merilnik deluje stabilno, zaslon se osveži brez utripanja. Ugotovili smo, da je pri razdaljah do ~1m natančnost ±1-2cm, pri večjih razdaljah pa so odstopanja večja. Opazili smo, da povprečenje 10 meritev vidno zmanjša šum.
 
-Za kalibracijo smo primerjali izmerjene vrednosti z referenčnim merilom na razdaljah 10cm, 50cm in 100cm ter po potrebi dodali offset v kodi. Kot možne izboljšave predlagamo zvočni signal pri določeni razdalji, shranjevanje meritev na SD kartico ali nastavitev enot (cm/mm) z gumbom.
+Za kalibracijo smo primerjali izmerjene vrednosti z referenčnim merilom na razdaljah 10cm, 50cm in 100cm ter po potrebi dodali offset v kodi. Kot možne izboljšave predlagamo zvočni signal pri določeni razdalji, shranjevanje meritev na SD kartico ali nastavitev enot (cm/mm) z gumbom, merjenje razdalje v decimalkih.
