@@ -24,6 +24,7 @@ https://www.youtube.com/watch?v=_bI4GYofFdY
 
 ### Priložena PDF datoteka v repozitor o umerjanju vaše naprave (A-test):
 ![List](delovni_list.png)
+Merilni inštrument je zanesljiv.
 
 ### Komentar in ocena natančnosti delovanja:
 
