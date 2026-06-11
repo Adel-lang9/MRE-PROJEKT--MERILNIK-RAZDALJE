@@ -23,7 +23,7 @@ Senzor deluje tako, da oddaja infrardeč laserski žarek, ki se odbije od predme
 https://www.youtube.com/watch?v=_bI4GYofFdY
 
 ### Priložena PDF datoteka v repozitor o umerjanju vaše naprave (A-test):
-![List](Delovni_list.png)
+![List](delovni_list.png)
 
 ### Komentar in ocena natančnosti delovanja:
 
