@@ -15,7 +15,7 @@ Za električni del smo uporabili Arduino Nano, VL53L0X laserski senzor za razdal
 ![Ohišje](pokrov_pokrova.png)
 
 ### videoposnetek delovanja:
-
+https://www.youtube.com/watch?v=_bI4GYofFdY
 
 ### Priložena PDF datoteka v repozitor o umerjanju vaše naprave (A-test):
 ![List](Delovni_list.png)
